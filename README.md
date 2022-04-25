@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adib Hasan
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me adibhasan50@gmail.com
 
