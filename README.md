@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adib Hasan
 - 📫 How to reach me adibhasan50@gmail.com
-- LinkedIn : https://www.linkedin.com/in/adib-hasan-19n/
+- LinkedIn : https://www.linkedin.com/in/adibhasan1/
 
 <!---
 myselfadib/myselfadib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
