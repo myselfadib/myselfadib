@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I'm sharpening my data analytics and business intelligence skills through projects involving advanced Tableau visualizations, predictive models in Python, and data management with SQL and Power BI.<br>🌱 I'm enhancing my proficiency in Python, SQL, Power BI, and Tableau, and taking advanced courses in Agile Project Management and Business Analysis to align project outcomes with business objectives.<br>💬 Reach out for insights on using Python, SQL, Power BI, Tableau, and Excel to drive data-informed decision-making and strategic business planning.<br>⚡ Once just rows and columns to me, data is now the innovation blueprint—like a crystal ball that offers actionable insights, not vague prophecies!
-
-
 <p align="left">Hello World!!</p>
 
 ###
