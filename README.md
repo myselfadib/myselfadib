@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am enhancing my data analysis and business intelligence skills through the use of Tableau, Power BI, Python, SQL, and Excel.<br>🌱 I'm enhancing my proficiency in Python, SQL, Power BI, and Tableau, and taking advanced courses in Agile Project Management and Business Analysis to align project outcomes with business objectives.<br>💬 Reach out for insights on using Python, SQL, Power BI, Tableau, and Excel to drive data-informed decision-making and strategic business planning, feel free to contact me at adibhasan50@gmail.com<br>⚡ Once just rows and columns to me, data is now the innovation blueprint—like a crystal ball that offers actionable insights, not vague prophecies!
+🔭 I am enhancing my data analysis and business intelligence skills through the use of Tableau, Power BI, Python, SQL, and Excel.<br>💬 Reach out for insights on using Python, SQL, Power BI, Tableau, and Excel to drive data-informed decision-making and strategic business planning, feel free to contact me at adibhasan50@gmail.com<br>⚡ Once just rows and columns to me, data is now the innovation blueprint—like a crystal ball that offers actionable insights, not vague prophecies!
 
 
 ## 🌐 Socials:
