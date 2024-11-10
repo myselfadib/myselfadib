@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am enhancing my data analysis and business intelligence skills through the use of Tableau, Power BI, Python, SQL, and Excel.<br>💬 Reach out for insights on using Python, SQL, Power BI, Tableau, and Excel to drive data-informed decision-making and strategic business planning, feel free to contact me at adibhasan50@gmail.com<br>⚡ Once just rows and columns to me, data is now the innovation blueprint—like a crystal ball that offers actionable insights, not vague prophecies!
+🔭 Analyst skilled in transforming complex data into actionable insights, using Python, SQL, Tableau, Power BI, and Excel to drive strategic decisions.<br>🌱 Committed to continuous learning and delivering data-driven solutions that enhance efficiency and support organizational success. <br>💬 Reach out for insights on using Python, SQL, Power BI, Tableau, and Excel to drive data-informed decision-making and strategic business planning, feel free to contact me at adibhasan50@gmail.com<br>⚡ Once just rows and columns to me, data is now the innovation blueprint—like a crystal ball that offers actionable insights, not vague prophecies!
 
 
 ## 🌐 Socials:
