@@ -1,5 +1,5 @@
 # 💫 About Me:
-I analyze and interpret data to uncover meaningful patterns and deliver practical solutions. With proficiency in Python, SQL, Tableau, Power BI, and Excel, I focus on creating systems and tools that improve processes and support informed decision-making.
+I analyze and interpret data to uncover meaningful patterns and deliver practical solutions. With proficiency in Python, SQL, Tableau, Power BI, and Excel, I enhance processes and support informed decision-making through data analysis and visualization. <br>
 🔍 Extracting and visualizing patterns to identify trends and actionable opportunities.<br>📚 Continuously refining techniques to stay adaptable and effective. <br>⚡ Creating dashboards and reports that lead to informed decisions. <br>💬 Reach out for insights on using Python, SQL, Power BI, Tableau, and Excel to drive data-informed decision-making and strategic business planning, feel free to contact me at adibhasan50@gmail.com<br>
 
 ## 🌐 Socials:
