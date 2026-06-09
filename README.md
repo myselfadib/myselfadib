@@ -21,8 +21,7 @@ Working with zone-level demand, pricing, service coverage, microzones, enclosed 
 ⚙️ Automation & Process Improvement
 Automating recurring reports, lead pipelines, operational trackers, nudges, and workflows to reduce manual effort and improve decision-making speed.
 
-Tools & Technologies
-
+🛠️ Tools & Technologies
 Data & Analytics: SQL, MySQL, BigQuery, Redash, Excel, Google Sheets
 BI & Visualization: Power BI, Tableau, Looker Studio
 Programming: Python, Pandas, NumPy, Matplotlib
