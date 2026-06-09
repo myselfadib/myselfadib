@@ -1,6 +1,45 @@
-# 💫 About Me:
-I analyze and interpret data to uncover meaningful patterns and deliver practical solutions. With proficiency in Python, SQL, Tableau, Power BI, and Excel, I enhance processes and support informed decision-making through data analysis and visualization. <br>
-🔍 Extracting and visualizing patterns to identify trends and actionable opportunities.<br>📚 Continuously refining techniques to stay adaptable and effective. <br>⚡ Creating dashboards and reports that lead to informed decisions. <br>💬 Reach out for insights on using Python, SQL, Power BI, Tableau, and Excel to drive data-informed decision-making and strategic business planning, feel free to contact me at adibhasan50@gmail.com<br>
+Hi, I'm Adib Hasan 👋
+
+I’m a Business Intelligence Analyst at Pathao, working on marketplace, growth, pricing, operations, and lifecycle analytics inside the Rides business.
+
+My work sits at the intersection of data, business operations, and execution. I use data to understand demand-supply behavior, user and driver journeys, pricing performance, promo and incentive impact, operational reliability, and growth opportunities.
+
+What I Work On
+
+🔍 Marketplace & Operations Analytics
+Analyzing demand-supply trends, trip completion, cancellations, service reliability, driver activity, and operational performance across ride-hailing verticals.
+
+📊 Business Intelligence & Dashboards
+Building dashboards, scorecards, and automated reports for OKRs, pricing, rental operations, dues, field force KPIs, trainer performance, lead funnels, and driver activation.
+
+📈 Growth & Lifecycle Analysis
+Studying user and driver journeys from signup and first activity to repeat usage, retention, churn, reactivation, and cohort performance.
+
+🗺️ Geospatial & Zone-Based Analysis
+Working with zone-level demand, pricing, service coverage, microzones, enclosed areas, and location-based operational planning.
+
+⚙️ Automation & Process Improvement
+Automating recurring reports, lead pipelines, operational trackers, nudges, and workflows to reduce manual effort and improve decision-making speed.
+
+Tools & Technologies
+
+Data & Analytics: SQL, MySQL, BigQuery, Redash, Excel, Google Sheets
+BI & Visualization: Power BI, Tableau, Looker Studio
+Programming: Python, Pandas, NumPy, Matplotlib
+Core Areas: Dashboarding, reporting automation, funnel analysis, cohort analysis, pricing analysis, forecasting, data validation, stakeholder reporting
+
+Research & Learning
+
+I also have a research background in machine learning and computer vision. My work on Bangla Sign Language Recognition With Multimodal Deep Learning Fusion was published in Wiley Engineering Reports.
+
+I’m continuously improving how I use data, analytics, BI tools, and AI-assisted workflows to solve business problems more effectively.
+
+Let's Connect
+
+I’m always open to conversations around data analytics, business intelligence, marketplace operations, growth analytics, pricing, product analytics, and automation.
+
+📧 Email: iamadibhasan@gmail.com
+🔗 LinkedIn: linkedin.com/in/adibhasan1
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adibhasan19N) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adibhasan1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/adib4you) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdibHasan13) 
