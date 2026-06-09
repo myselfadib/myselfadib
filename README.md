@@ -1,5 +1,3 @@
-Use this exact version. I added `<br><br>` after sections and `<br>` after each skill line so GitHub cannot merge them into one paragraph.
-
 # Hi, I'm Adib Hasan 👋
 
 I’m a Business Intelligence Analyst at Pathao, working on marketplace, growth, pricing, operations, and lifecycle analytics inside the Rides business.<br><br>
