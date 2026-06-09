@@ -1,44 +1,48 @@
-Hi, I'm Adib Hasan 👋
+Use this exact version. I added `<br><br>` after sections and `<br>` after each skill line so GitHub cannot merge them into one paragraph.
 
-I’m a Business Intelligence Analyst at Pathao, working on marketplace, growth, pricing, operations, and lifecycle analytics inside the Rides business.
+# Hi, I'm Adib Hasan 👋
 
-My work sits at the intersection of data, business operations, and execution. I use data to understand demand-supply behavior, user and driver journeys, pricing performance, promo and incentive impact, operational reliability, and growth opportunities.
+I’m a Business Intelligence Analyst at Pathao, working on marketplace, growth, pricing, operations, and lifecycle analytics inside the Rides business.<br><br>
 
-What I Work On
+My work sits at the intersection of data, business operations, and execution. I use data to understand demand-supply behavior, user and driver journeys, pricing performance, promo and incentive impact, operational reliability, and growth opportunities.<br><br>
 
-🔍 Marketplace & Operations Analytics
-Analyzing demand-supply trends, trip completion, cancellations, service reliability, driver activity, and operational performance across ride-hailing verticals.
+## What I Work On
 
-📊 Business Intelligence & Dashboards
-Building dashboards, scorecards, and automated reports for OKRs, pricing, rental operations, dues, field force KPIs, trainer performance, lead funnels, and driver activation.
+🔍 **Marketplace & Operations Analytics**<br>
+Analyzing demand-supply trends, trip completion, cancellations, service reliability, driver activity, and operational performance across ride-hailing verticals.<br><br>
 
-📈 Growth & Lifecycle Analysis
-Studying user and driver journeys from signup and first activity to repeat usage, retention, churn, reactivation, and cohort performance.
+📊 **Business Intelligence & Dashboards**<br>
+Building dashboards, scorecards, and automated reports for OKRs, pricing, rental operations, dues, field force KPIs, trainer performance, lead funnels, and driver activation.<br><br>
 
-🗺️ Geospatial & Zone-Based Analysis
-Working with zone-level demand, pricing, service coverage, microzones, enclosed areas, and location-based operational planning.
+📈 **Growth & Lifecycle Analysis**<br>
+Studying user and driver journeys from signup and first activity to repeat usage, retention, churn, reactivation, and cohort performance.<br><br>
 
-⚙️ Automation & Process Improvement
-Automating recurring reports, lead pipelines, operational trackers, nudges, and workflows to reduce manual effort and improve decision-making speed.
+🗺️ **Geospatial & Zone-Based Analysis**<br>
+Working with zone-level demand, pricing, service coverage, microzones, enclosed areas, and location-based operational planning.<br><br>
 
-🛠️ Tools & Technologies
-Data & Analytics: SQL, MySQL, BigQuery, Redash, Excel, Google Sheets
-BI & Visualization: Power BI, Tableau, Looker Studio
-Programming: Python, Pandas, NumPy, Matplotlib
-Core Areas: Dashboarding, reporting automation, funnel analysis, cohort analysis, pricing analysis, forecasting, data validation, stakeholder reporting
+⚙️ **Automation & Process Improvement**<br>
+Automating recurring reports, lead pipelines, operational trackers, nudges, and workflows to reduce manual effort and improve decision-making speed.<br><br>
 
-Research & Learning
+## 🛠️ Tools & Technologies
 
-I also have a research background in machine learning and computer vision. My work on Bangla Sign Language Recognition With Multimodal Deep Learning Fusion was published in Wiley Engineering Reports.
+**Data & Analytics:** SQL, MySQL, BigQuery, Redash, Excel, Google Sheets<br>
+**BI & Visualization:** Power BI, Tableau, Looker Studio<br>
+**Programming:** Python, Pandas, NumPy, Matplotlib<br>
+**Core Areas:** Dashboarding, reporting automation, funnel analysis, cohort analysis, pricing analysis, forecasting, data validation, stakeholder reporting<br><br>
 
-I’m continuously improving how I use data, analytics, BI tools, and AI-assisted workflows to solve business problems more effectively.
+## 📚 Research & Learning
 
-Let's Connect
+I also have a research background in machine learning and computer vision. My work on **Bangla Sign Language Recognition With Multimodal Deep Learning Fusion** was published in **Wiley Engineering Reports**.<br><br>
 
-I’m always open to conversations around data analytics, business intelligence, marketplace operations, growth analytics, pricing, product analytics, and automation.
+I’m continuously improving how I use data, analytics, BI tools, and AI-assisted workflows to solve business problems more effectively.<br><br>
 
-📧 Email: iamadibhasan@gmail.com
-🔗 LinkedIn: linkedin.com/in/adibhasan1
+## 🤝 Let's Connect
+
+I’m always open to conversations around data analytics, business intelligence, marketplace operations, growth analytics, pricing, product analytics, and automation.<br><br>
+
+📧 **Email:** [iamadibhasan@gmail.com](mailto:iamadibhasan@gmail.com)<br>
+🔗 **LinkedIn:** linkedin.com/in/adibhasan1<br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adibhasan19N) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adibhasan1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/adib4you) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdibHasan13) 
